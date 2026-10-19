@@ -1,0 +1,9 @@
+{
+  "name": "gym-tracker",
+  "private": true,
+  "type": "module",
+  "description": "Только для тестов логики: node --test. Приложению сборка не нужна.",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
